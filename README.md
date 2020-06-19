@@ -21,5 +21,13 @@ If the password is T3mple05Rock5! the SHA256 sum could be calculated on Linux wi
 
 Be sure not to include newlines in your hash (that's what the -n is for).
 
+# Partial answers for checking if you are correct:
 
+- ```99e8c46183f3cdb67b4a43e2d814e465XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
+- ```ddf4bbaf93b2b7b49a2ec25d3f79faebXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
+- ```780920a41567944183c6de5d68e691ecXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX``` ***
+- ```8df67da22e2f84aa2e07de8ca0c5cd14XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
+- ```a98732bdb8ba962dd08ba587520b66a1XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
+
+*** Note 3 actually has multiple correct passwords, this hash is calculated using the answer which uses only capital letters.
 
