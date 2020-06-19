@@ -23,7 +23,7 @@ Be sure not to include newlines in your hash (that's what the -n is for).
 
 # Partial answers for checking if you are correct:
 
-- ```99e8c46183f3cdb67b4a43e2d814e465XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
+- ```99e8c46183f3cdb67b4a43e2d814e465c4984bc1e5c6b78ed5e8a4f5aa4e0cdf```  solved by rendello
 - ```ddf4bbaf93b2b7b49a2ec25d3f79faebXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
 - ```780920a41567944183c6de5d68e691ecXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX``` ***
 - ```8df67da22e2f84aa2e07de8ca0c5cd14XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX```
